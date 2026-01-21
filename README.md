@@ -5,7 +5,7 @@
 [![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange.svg)](https://pandas.pydata.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-> **[과제안 4] 전국 전통시장 시설현황 + 시장별 리뷰 크롤링 분석**  
+> ** 전국 전통시장 시설현황 + 시장별 리뷰 크롤링 분석**  
 
 **프로젝트 규모**: 전국 1,388개 전통시장 | 990개 리뷰 데이터 분석 | 25개 시설 항목
 
